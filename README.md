@@ -26,3 +26,10 @@ Simple RustLang Snake Game using RayLib
    ```
    cargo build
    ```
+7) Now, to execute the code, run the following commands
+   ```
+   cargo check
+   ```
+   ```
+   cargo run
+   ```
